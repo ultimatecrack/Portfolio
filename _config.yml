@@ -1,7 +1,11 @@
 title: Rakesh Panigrahy
 logo: /assets/img/passphoto.jpg
 # logo: https://www.linkedin.com/in/rakesh-panigrahy-062166102/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BiFyQL0yNRu%2BQrIo%2FDsHueA%3D%3D
-description: Minimal is a theme for GitHub Pages.
+<a href='https://github.com/ultimatecrack/minimal/blob/1708da01128d4dc1bba1efcc54c667cf9fd86ebf/docs/Rakesh%20Panigrahy%20-%20Data%20Science.pdf'>Resume</a>
+<a href='https://www.linkedin.com/in/rakesh-panigrahy-062166102/'>Linked In</a>
+<a href='https://github.com/ultimatecrack'>Github</a>
+<a href='https://medium.com/@rakeshpanigrahy'>Medium</a>
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
