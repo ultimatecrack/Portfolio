@@ -2,35 +2,30 @@ title: Rakesh Panigrahy
 logo: /assets/img/passphoto.jpg
 # logo: https://www.linkedin.com/in/rakesh-panigrahy-062166102/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BiFyQL0yNRu%2BQrIo%2FDsHueA%3D%3D
 descripton:
-<a href='https://github.com/ultimatecrack/minimal/blob/1708da01128d4dc1bba1efcc54c667cf9fd86ebf/docs/Rakesh%20Panigrahy%20-%20Data%20Science.pdf'>Resume</a>|
-<a href='https://www.linkedin.com/in/rakesh-panigrahy-062166102/'>Linked In</a>|
-<a href='https://github.com/ultimatecrack'>Github</a>|
-<a href='https://medium.com/@rakeshpanigrahy'>Medium</a>
+  <a href='https://github.com/ultimatecrack/minimal/blob/1708da01128d4dc1bba1efcc54c667cf9fd86ebf/docs/Rakesh%20Panigrahy%20-%20Data%20Science.pdf'>Resume</a>|
+  <a href='https://www.linkedin.com/in/rakesh-panigrahy-062166102/'>Linked In</a>|
+  <a href='https://github.com/ultimatecrack'>Github</a>|
+  <a href='https://medium.com/@rakeshpanigrahy'>Medium</a>
+  <br>
+  Professional in analytics and development with 3 years of experience.
+  Developed sustainable solutions to drive strategic initiatives,
+  published business reports for daily operations, and took complete
+  ownership of end-to-end delivery in a fast-paced environment.
+  Cultivated result-oriented problem solving culture within teams and
+  helped them accomplish business goals through clear road-maps and
+  regular training programs.
+  <br>
+  <b>- Areas of Expertise</b>
+  1. Demand Prediction & Inventory Planning<br>
+  2. Resource Management and Training<br>
+  3. Logistic Planinng & Optimization<br>
+  4. Roaster Planning and Optimization<br>
+  6. Warehouse and logistic fraud Analysis
 
-<p>
-Professional in analytics and development with 3 years of experience.
-Developed sustainable solutions to drive strategic initiatives,
-published business reports for daily operations, and took complete
-ownership of end-to-end delivery in a fast-paced environment.
-Cultivated result-oriented problem solving culture within teams and
-helped them accomplish business goals through clear road-maps and
-regular training programs.
-</p>
-
-<h4>- Areas of Expertise</h4>
-<p>
-1. Demand Prediction & Inventory Planning<br>
-2. Resource Management and Training<br>
-3. Logistic Planinng & Optimization<br>
-4. Roaster Planning and Optimization<br>
-6. Warehouse and logistic fraud Analysis
-</p>
-
-<h4>- Business Functions</h4>
-<p>
-1. Inventory Planning<br>
-2. Supply Chain & Logistics
-</p>
+  <b>- Business Functions</b>
+  1. Inventory Planning<br>
+  2. Supply Chain & Logistics
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
