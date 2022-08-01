@@ -26,6 +26,6 @@ descripton:
   1. Inventory Planning<br>
   2. Supply Chain & Logistics
   </p>
-show_downloads: true
-google_analytics:
+# show_downloads: true
+# google_analytics:
 theme: jekyll-theme-minimal
