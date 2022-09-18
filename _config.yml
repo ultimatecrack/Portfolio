@@ -10,6 +10,6 @@ description:
   inventory operation and logistic problems and optimize the current workflow with 
   minimum cost.
   <br>
-# show_downloads: true
-# google_analytics:
+show_downloads: true
+google_analytics: true
 theme: jekyll-theme-minimal
