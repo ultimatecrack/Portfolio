@@ -1,15 +1,6 @@
-title: Rakesh Panigrahy
-logo: /assets/img/passphoto.jpg
-description:
-  <a href='https://github.com/ultimatecrack/minimal/blob/1708da01128d4dc1bba1efcc54c667cf9fd86ebf/docs/Rakesh%20Panigrahy%20-%20Data%20Science.pdf'>Resume</a>|
-  <a href='https://www.linkedin.com/in/rakesh-panigrahy-062166102/'>Linked In</a>|
-  <a href='https://github.com/ultimatecrack'>Github</a>|
-  <a href='https://medium.com/@rakeshpanigrahy'>Medium</a>
-  <br>
-  I work as Business Analytics and use different data science techniques to solve
-  inventory operation and logistic problems and optimize the current workflow with 
-  minimum cost.
-  <br>
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics: true
 theme: jekyll-theme-minimal
